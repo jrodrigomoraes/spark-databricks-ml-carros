@@ -28,18 +28,17 @@ O dataset utilizado para este projeto está disponível em `datasets/Carros.csv`
 ## Estrutura do Projeto
 
 O projeto está estruturado da seguinte forma:
-
+```bash
 spark-databricks-ml-carros/
-├── datasets/ # Dados utilizados para treinamento do modelo
-├── notebooks/ # Jupyter/Colab Notebooks com análises e experimentos
-├── src/ # Código-fonte do projeto
-├── imgs/ # Gráficos e resultados visuais
-├── tests/ # Testes automatizados (se aplicável)
-├── requirements.txt # Dependências do projeto
-├── .gitignore # Arquivos e pastas a serem ignorados pelo Git
-├── LICENSE # Licença do projeto
-└── README.md # Este arquivo
-
+├── datasets/
+├── notebooks/
+├── src/
+├── imgs/ 
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+└── README.md
+```
 
 
 ## Pré-requisitos
