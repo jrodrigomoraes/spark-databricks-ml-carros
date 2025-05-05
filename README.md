@@ -76,6 +76,7 @@ A seguir estão as imagens geradas durante o treinamento do modelo, incluindo um
 ![Resultado da Predição](imgs/PredicaoModelo.jpg)
 
 O modelo foi testado com RMSE(Raiz quadrada do erro-médio)
+![Resultado](imgs/RMSE.jpg)
 
 
 ## Licença
