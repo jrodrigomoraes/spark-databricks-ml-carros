@@ -71,8 +71,12 @@ jupyter notebook notebooks/regressao_linear_carros.ipynb
 
 6. Para rodar o código no Databricks, faça o upload dos scripts Python para a plataforma e execute o treinamento lá.
 
-Resultados
+## Resultados
 A seguir estão as imagens geradas durante o treinamento do modelo, incluindo uma visão geral do banco de dados e os resultados do modelo de regressão linear:
+![Resultado da Predição](imgs/PredicaoModelo.jpg)
 
-Licença
+O modelo foi testado com RMSE(Raiz quadrada do erro-médio)
+
+
+## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
