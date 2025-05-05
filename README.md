@@ -55,16 +55,22 @@ pip install -r requirements.txt
 Como Rodar:
 
 1. Clone este repositório:
+```bash
 git clone https://github.com/jrodrigomoraes/spark-databricks-ml-carros.git
+```
 
-2. Instale as dependências:
+3. Instale as dependências:
+```bash
 pip install -r requirements.txt
+```
 
 
-3. Execute o notebook Jupyter/Colab para análise exploratória e treinamento do modelo:
+5. Execute o notebook Jupyter/Colab para análise exploratória e treinamento do modelo:
+```
 jupyter notebook notebooks/regressao_linear_carros.ipynb
+```
 
-4. Para rodar o código no Databricks, faça o upload dos scripts Python para a plataforma e execute o treinamento lá.
+6. Para rodar o código no Databricks, faça o upload dos scripts Python para a plataforma e execute o treinamento lá.
 
 Resultados
 A seguir estão as imagens geradas durante o treinamento do modelo, incluindo uma visão geral do banco de dados e os resultados do modelo de regressão linear:
